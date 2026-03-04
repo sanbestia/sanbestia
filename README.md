@@ -17,7 +17,7 @@ I'm fluent in English, open to remote work globally, and actively looking for ro
 
 ## 🚀 Projects
 
-### Sports Schedule Pipeline *(private — available on request)*
+### [Sports schedule API integration with Google Calendar](https://github.com/sanbestia/sports_calendar_integration)
 End-to-end data pipeline: consumed a sports schedule API, scraped supplementary data from multiple sites, merged and cleaned heterogeneous datasets in Python, and automated ingestion into Google Calendar via the Google API.
 
 ### [AI Agent — LLM Tool Use](https://github.com/sanbestia/toy_ai_agent)
