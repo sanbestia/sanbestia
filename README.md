@@ -24,7 +24,7 @@ End-to-end data pipeline: consumed a sports schedule API, scraped supplementary 
 Built an LLM-powered agent using the Gemini API with tool use / function calling, multi-step reasoning, and structured prompt engineering. Built as part of the boot.dev backend path.
 
 ### Research Automation Pipelines *(private)*
-Custom Python pipelines for automated cell segmentation and fluorescence quantification across large microscopy datasets. Replaced manual workflows with reproducible, version-controlled scripts integrated with ImageJ and CellID.
+Custom Python and R pipelines for automated cell segmentation and fluorescence quantification across large microscopy datasets. Replaced manual workflows with reproducible, version-controlled scripts integrated with ImageJ and CellID.
 
 ---
 
