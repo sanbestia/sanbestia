@@ -18,7 +18,7 @@ I'm fluent in English, open to remote work globally, and actively looking for ro
 ## 🚀 Projects
 
 ### [Sports schedule API integration with Google Calendar](https://github.com/sanbestia/sports_calendar_integration)
-End-to-end data pipeline: consumed a sports schedule API, scraped supplementary data from multiple sites, merged and cleaned heterogeneous datasets in Python, and automated ingestion into Google Calendar via the Google API.
+End-to-end data pipeline: consumed a sports schedule API, scraped supplementary data from multiple sites, merged and cleaned heterogeneous datasets in Python, and automated ingestion into Google Calendar via the Google API. Features a tiered fetch scheduling system to minimize API usage, persistent state via SQLite, and a full pytest test suite.
 
 ### [AI Agent — LLM Tool Use](https://github.com/sanbestia/toy_ai_agent)
 Built an LLM-powered agent using the Gemini API with tool use / function calling, multi-step reasoning, and structured prompt engineering. Built as part of the boot.dev backend path.
