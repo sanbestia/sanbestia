@@ -1,5 +1,4 @@
 # Hi, I'm Sebastián 👋
-
 I'm a biologist and academic researcher based in Buenos Aires, Argentina, transitioning into the tech industry. Over years of quantitative research I've built Python pipelines, analyzed complex datasets, and automated workflows — and I've come to enjoy that side of the work most. Now I'm actively building my software development skills and looking for my first industry role.
 
 I'm fluent in English, open to remote work globally, and actively looking for roles in **backend development**, **data engineering**, or **data science/analytics**.
@@ -10,12 +9,17 @@ I'm fluent in English, open to remote work globally, and actively looking for ro
 
 **Languages:** Python · Go · TypeScript · R · SQL · Bash  
 **Backend & APIs:** REST API design · HTTP servers · CLI tools · web scraping · Google APIs · LLM/Gemini API  
-**Data & ML:** Pandas · NumPy · Scikit-learn · TensorFlow · Shiny · PowerBI · statistical analysis · time-series · signal processing  
-**Tools:** Git · ImageJ · AlphaFold · LaTeX · Claude (AI-assisted development)
+**Data & ML:** Pandas · NumPy · Scikit-learn · TensorFlow · DuckDB · statsmodels · Prophet · Shiny · PowerBI · statistical analysis · time-series · signal processing  
+**Dashboards & Viz:** Streamlit · Plotly · Matplotlib  
+**DevOps & Tooling:** Git · GitHub Actions (CI/CD) · pytest · uv · ImageJ · AlphaFold · LaTeX · Claude (AI-assisted development)
 
 ---
 
 ## 🚀 Projects
+
+### [SUBE Transit Analytics](https://github.com/sanbestia/sube-transit-analytics) — [🔴 Live demo](https://sube-transit-analytics.streamlit.app/)
+End-to-end data engineering and data science project analyzing Argentina's SUBE public transit card system — 5+ years of daily ridership data covering COVID lockdowns, three inflation crises, and the 2023–24 subsidy elimination. Modular ETL pipeline with hash-based change detection, DuckDB analytical database, STL time-series decomposition, anomaly detection cross-referenced against a complete national holiday calendar, and a Prophet demand forecasting model with custom fare-pressure and macro-shock regressors. Deployed as a bilingual (ES/EN) Streamlit dashboard with daily GitHub Actions CI/CD and 240+ pytest tests.  
+**Stack:** Python · DuckDB · pandas · statsmodels · Prophet · Streamlit · Plotly · GitHub Actions
 
 ### [Sports schedule API integration with Google Calendar](https://github.com/sanbestia/sports_calendar_integration)
 End-to-end data pipeline: consumed a sports schedule API, scraped supplementary data from multiple sites, merged and cleaned heterogeneous datasets in Python, and automated ingestion into Google Calendar via the Google API. Features a tiered fetch scheduling system to minimize API usage, persistent state via SQLite, and a full pytest test suite.
