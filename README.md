@@ -7,10 +7,10 @@ I'm fluent in English, open to remote work globally, and actively looking for ro
 
 ## 🛠️ What I work with
 
-**Languages:** Python · Go · TypeScript · R · SQL · Bash  
-**Backend & APIs:** REST API design · HTTP servers · CLI tools · web scraping · Google APIs · LLM/Gemini API  
-**Data & ML:** Pandas · NumPy · Scikit-learn · TensorFlow · DuckDB · statsmodels · Prophet · Shiny · PowerBI · statistical analysis · time-series · signal processing  
-**Dashboards & Viz:** Streamlit · Plotly · Matplotlib  
+**Languages:** Python · Go · TypeScript · R · SQL · Bash
+**Backend & APIs:** REST API design · HTTP servers · CLI tools · web scraping · Google APIs · LLM/Gemini API
+**Data & ML:** Pandas · NumPy · Scikit-learn · TensorFlow · DuckDB · statsmodels · Prophet · Shiny · PowerBI · statistical analysis · time-series · signal processing
+**Dashboards & Viz:** Streamlit · Plotly · Matplotlib
 **DevOps & Tooling:** Git · GitHub Actions (CI/CD) · pytest · uv · ImageJ · AlphaFold · LaTeX · Claude (AI-assisted development)
 
 ---
@@ -18,7 +18,7 @@ I'm fluent in English, open to remote work globally, and actively looking for ro
 ## 🚀 Projects
 
 ### [SUBE Transit Analytics](https://github.com/sanbestia/sube-transit-analytics) — [🔴 Live demo](https://sube-transit-analytics.streamlit.app/)
-End-to-end data engineering and data science project analyzing Argentina's SUBE public transit card system — 5+ years of daily ridership data covering COVID lockdowns, three inflation crises, and the 2023–24 subsidy elimination. Modular ETL pipeline with hash-based change detection, DuckDB analytical database, STL time-series decomposition, anomaly detection cross-referenced against a complete national holiday calendar, and a Prophet demand forecasting model with custom fare-pressure and macro-shock regressors. Deployed as a bilingual (ES/EN) Streamlit dashboard with daily GitHub Actions CI/CD and 240+ pytest tests.  
+End-to-end data engineering and data science project analyzing Argentina's SUBE public transit card system: 5+ years of daily ridership data covering COVID lockdowns, three inflation crises, and the 2023–24 subsidy elimination. Modular ETL pipeline with hash-based change detection, DuckDB analytical database, STL time-series decomposition, anomaly detection cross-referenced against a complete national holiday calendar, and a Prophet demand forecasting model with custom fare-pressure and macro-shock regressors. Deployed as a bilingual (ES/EN) Streamlit dashboard with daily GitHub Actions CI/CD and 240+ pytest tests.
 **Stack:** Python · DuckDB · pandas · statsmodels · Prophet · Streamlit · Plotly · GitHub Actions
 
 ### [Sports schedule API integration with Google Calendar](https://github.com/sanbestia/sports_calendar_integration)
