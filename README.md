@@ -1,7 +1,7 @@
 # Hi, I'm Sebastián 👋
 I'm a biologist and academic researcher based in Buenos Aires, Argentina, transitioning into the tech industry. Over years of quantitative research I've built Python pipelines, analyzed complex datasets, and automated workflows — and I've come to enjoy that side of the work most. Now I'm actively building my software development skills and looking for my first industry role.
 
-I'm fluent in English, open to remote work globally, and actively looking for roles in **backend development**, **data engineering**, or **data science/analytics**.
+I'm fluent in English, open to remote work globally, and actively looking for roles in **development (frontend/backend/fullstack)**, **data engineering**, or **data science/analytics**.
 
 ---
 
